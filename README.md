@@ -6,7 +6,7 @@ This repository demonstrates how I used Twitter feeds to trained custom .mlmodel
 
 ## Demo
 
-![GIF](giflink)
+![GIF](https://github.com/willhCodes/TwitScoreDemo/blob/main/sample.gif)
 ## Highlights
 
 Before starting to make predictions, there were two main things that needed to be set up:
